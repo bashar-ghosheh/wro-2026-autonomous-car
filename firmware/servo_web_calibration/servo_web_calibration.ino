@@ -5,7 +5,7 @@
   Creates a standalone Wi-Fi Access Point directly on the ESP32.
   Connect your laptop or phone directly to the ESP32's Wi-Fi network:
     SSID: ESP32-Servo-Calibrator
-    Password: password123
+    Password: CHANGE_ME_WIFI_PASSWORD
     
   Then open your browser and go to:
     http://192.168.4.1
@@ -24,7 +24,7 @@ WebServer server(80);
 
 // SSID and Password for the ESP32 Access Point
 const char *ssid = "ESP32-Servo-Calibrator";
-const char *password = "password123";
+const char *password = "CHANGE_ME_WIFI_PASSWORD";
 
 int currentAngle = 90; // Default center position
 

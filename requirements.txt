@@ -1,2 +1,4 @@
-pyserial>=3.5
 numpy>=1.21.0
+pyserial>=3.5
+opencv-python>=4.8.0
+picamera2>=0.3.17; platform_machine == "aarch64"
