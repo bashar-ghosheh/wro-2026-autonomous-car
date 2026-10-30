@@ -84,3 +84,5 @@ Use the [official WRO 2026 season page](https://wro-association.org/competition/
 ## Version
 
 Project version: **1.0**. See the [v1.0 release](https://github.com/bashar-ghosheh/wro-2026-autonomous-car/releases/tag/v1.0).
+
+Repository layout: [docs/structure.txt](docs/structure.txt).
